@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School" | tail n-1
+BEST="School" | tail -n
